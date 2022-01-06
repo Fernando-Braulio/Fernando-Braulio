@@ -10,7 +10,7 @@
 ----
 ### Welcome to my profile 👋
 I am a young man graduated in Information Systems, currently working as a Systems Analyst at Fartec Sistemas.
-Free time Flutter study for Mobile development, and ReactJS for front-end.
+Free time Xamarin/Flutter study for Mobile development, and ASP.NET Core for back-end.
 
  - 📌 Skills: HTML, CSS, JavaScript, jQuery, ReactJS, Laravel, PHP, C#, Flutter, Dart, Xamarin
  - 💙 In love with Mobile Development and Back-end
