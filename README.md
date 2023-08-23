@@ -1,34 +1,20 @@
 # Fernando Bráulio :man_technologist:
 
-----
-[![Github Badge](https://img.shields.io/badge/Fernando--Braulio-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Fernando-Braulio)](https://github.com/Fernando-Braulio)
- [![Linkedin Badge](https://img.shields.io/badge/fernando--braulio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-braulio/)](https://www.linkedin.com/in/fernando-braulio/) 
- [![Outlook Badge](https://img.shields.io/badge/fernandobraulio@outlook.com.br-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:fernandobraulio@outlook.com.br)](mailto:fernandobraulio@outlook.com.br)
-[![Gmail Badge](https://img.shields.io/badge/fernandobraulio1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandobraulio1999@gmail.com)](mailto:fernandobraulio1999@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@fernandobraulio__-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/fernandobraulio_/)](https://www.instagram.com/fernandobraulio_/)
-
-----
 ### Welcome to my profile 👋
-I am a young man graduated in Information Systems, currently working as a Systems Analyst at Fartec Sistemas.
-Free time Xamarin/Flutter study for Mobile development, and ASP.NET Core for back-end.
+I'm 24-year-old young passionate about programming, he has been working with Web and Mobile systems development since 2017.
+Participating in projects of several large companies such as MC Sonae (Portugal), Imetame Metalmecânica, Toledo do Brasil, UFAL (Federal University of Alagoas), among others.
 
- - 📌 Skills: HTML, CSS, JavaScript, jQuery, ReactJS, Laravel, PHP, C#, Flutter, Dart, Xamarin
+Graduated in Information Systems from Faculdade Pitágoras, postgraduate in MBA in Digital Applications Projects from UNOPAR (University of Northern Paraná).
+
+ - 📌 Skills: .NET, C#, Xamarin, JavaScript, Flutter
  - 💙 In love with Mobile Development and Back-end
- - 📚 Currently learning Xamarin/Flutter and ASP.NET Core
- - 😄 In my spare time, I usually study the financial market, play games, watch series and walk
+ - 📚 Atualmente aprendendo inglês
+ - 😄 In my spare time, I usually study about financial markets, play and watch Premier League football 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
 ---
 
-<!--
-**Fernando-Braulio/Fernando-Braulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/Fernando--Braulio-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Fernando-Braulio)](https://github.com/Fernando-Braulio)
+ [![Linkedin Badge](https://img.shields.io/badge/fernando--braulio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-braulio/)](https://www.linkedin.com/in/fernando-braulio/) 
+[![Instagram Badge](https://img.shields.io/badge/-@fernandobraulio__-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/fernandobraulio_/)](https://www.instagram.com/fernandobraulio_/)
