@@ -1,7 +1,7 @@
 # Fernando Bráulio :man_technologist:
 
 ### Welcome to my profile 👋
-I'm 24 years old, I'm a professional passionate about technology with solid experience in projects covering several areas, including mobile development, API integration and web development. My experiences include companies such as MC Sonae, Imetame Metalmecânica and collaborations with UFAL (Federal University of Alagoas).
+I'm 26 years old, I'm a professional passionate about technology with solid experience in projects covering several areas, including mobile development, API integration and web development. My experiences include companies such as MC Sonae, Imetame Metalmecânica and collaborations with UFAL (Federal University of Alagoas).
 
 My expertise covers a wide range of technologies, with an emphasis on Microsoft solutions, including Xamarin Forms, .NET, ASP.NET, MAUI, Azure, as well as Flutter, JQuery, JavaScript, MySQL and SQL Server, among others. During my career, I had the opportunity to work on several challenging projects, where I developed valuable programming and problem-solving skills.
 
